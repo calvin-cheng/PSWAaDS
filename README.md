@@ -1,5 +1,5 @@
-# Problem Solving With Algorithms and Data Structures Using Python 
+# Problem Solving With Algorithms and Data Structures 
 
-Worked exercises and examples are included as I go through the book.
+Worked exercises and examples as I go through the book.
 
 Started: 24/02/2020
